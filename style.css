@@ -1,0 +1,210 @@
+body {
+    font-family: arial;
+    font-size: 14px;
+}
+
+
+#logo {
+    font-family: "Comic Sans MS";
+    color:  tomato;
+    text-shadow:2px 2px 2px #000;
+    text-align: center;
+
+}
+
+ul #nav {
+    margin: 0;
+    margin:   0;
+}
+ 
+ #nav li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+  #nav li a{
+    text-decoration: none;
+    padding: 10 px ;
+    color: deeppink;
+    font-weight: bold;
+
+ }
+
+
+
+ #nav  li a{
+   
+    text-decoration: none;
+    color: pink;
+    font-size: 38px;
+    text-align: center;
+    align-items: center;
+    
+
+ }
+ 
+
+ #nav li a:hover{
+    color: rgb(227, 21, 128);
+ }
+
+ #nodot li{
+    list-style-type:  none;
+
+ }
+
+#lintang{
+    background-color: pink;
+ }
+
+ .gg button{
+    background-color:pink;
+    font-family: "verdana";
+    border: 3px solid rgb(246, 160, 207);
+    text-shadow:1px 1px 1px rgb(10, 211, 247);
+    padding:10px;
+    border-radius: 30px;
+    color: rgb(10, 211, 247);
+ }
+
+ .gg :hover{
+   color: rgb(6, 8, 0);
+   text-shadow:1px 1px 1px #140101;
+   background-color: rgb(10, 211, 247);
+   border: 3px solid rgb(250, 248, 247);
+ }
+
+ 
+ #g1 {
+   border: 15px solid #090909; 
+  border-radius:10px; 
+  padding: 10px; 
+  display: flex;
+  justify-content: center;  
+  align-items: center;     
+  
+}
+ 
+
+ #g2{
+   border: 15px solid #090909; 
+  border-radius:10px; 
+  padding: 10px;
+}
+
+#g3{
+   border: 15px solid #090909; 
+  border-radius:10px; 
+  padding: 10px;
+}
+
+#g4{
+   border: 15px solid #090909; 
+  border-radius:10px; 
+  padding: 10px;
+}
+
+#g5{
+   border: 15px solid #090909; 
+  border-radius:10px; 
+  padding: 10px;
+}
+
+#g6 {
+
+   border: 15px solid #090909; 
+   border-radius:10px; 
+   padding: 10px;
+}
+#g1:hover{
+   border-color: pink;
+}
+
+#keren {
+   background-color: pink;
+}
+#mantap {
+   background-color: rgba(182, 176, 176, 0.433);
+
+}
+
+/* #hhh {ver
+   background-color: pink;
+} */
+   
+#grey {
+   background-color:rgba(182, 176, 176, 0.433) ;
+}
+
+#tony  :hover{
+   background-color: rebeccapurple
+}
+
+.ARE a{
+   margin: 0;
+   padding: 0;
+}
+
+.ARE a{
+   list-style: none;
+   display: inline-block;
+   margin-right: 0px;
+}
+
+.ARE a{
+   text-decoration: none;
+   padding: 10px 0;
+   color: deeppink;
+   font-weight: bold;
+}
+
+.ARE :hover{
+   color: deeppink;
+   
+}
+
+.ARE a {
+   text-decoration: none;
+    padding: 10 px ;
+    color: deeppink;
+    font-weight: bold;
+
+}
+
+.ARE a {
+   text-decoration: none;
+   color: pink;
+   font-size: 38px;
+   text-align: center;
+   align-items: center;
+}
+
+#nav {
+   text-align: center;
+}
+
+
+ul {
+   display: flex;
+   justify-content: center; 
+   gap: 10px; 
+   padding: 0; 
+}
+
+.nft-image {
+   border-radius: 8px; 
+   transition: transform 0.2s ease-in-out; 
+}
+
+.nft-image:hover {
+   transform: scale(1.1); 
+}
+
+#hhh{
+   background-color: pink
+}
+
+.ii{
+   padding-top : 100px
+}
